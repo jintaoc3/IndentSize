@@ -44,4 +44,5 @@ Note: You should set detect_indentation to false in the default setting for all 
 
 Note: 
 1.tab became reserved for indent only and you need to used shift+tab to insert an actual tab.
+
 2.You should not have indent using space selected in the lower right corner if you have different tab size and indent size.
