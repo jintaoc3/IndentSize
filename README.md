@@ -18,7 +18,7 @@ Go to Sublime-Text -> Settings -> Settings - Syntax Specific and copy and paste 
     "detect_indentation": false
 }
 ```
-Note: You should set detect_indentation to false in the default setting for all language type or do so for each language, otherwise, errors will happen when tabbing.
+
 
 3. Open Sublime-Text -> Preferences -> Key Bindings and add these into your setting:
 ```
